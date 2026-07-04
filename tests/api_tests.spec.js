@@ -12,6 +12,7 @@ test('API POST REQUEST', async({request}) => {
         data:{
             "name": "morpheus",
             "job": "leader"
+            
         }
     })
 
